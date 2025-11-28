@@ -1,0 +1,4 @@
+/* small global reset and mild theme */
+*{box-sizing:border-box}
+html,body,#app{height:100%}
+body{background:linear-gradient(180deg,#f8fafc,#eef2f7);margin:0}
